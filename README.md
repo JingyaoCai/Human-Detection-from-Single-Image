@@ -34,7 +34,7 @@ The neural network I'm using is a ResNet, a deep Convolutional Neural Network (C
 The network starts with a 7x7 convolutional layer, followed by max pooling, Batch Normalization, and ReLU activation (layer0). Subsequent stages (layer1 to layer4) contain multiple residual blocks for feature extraction and learning.
 
 After these stages, global average pooling reduces the feature maps to 1x1, followed by a fully connected layer for the final output. This ResNet structure efficiently learns complex features, making it highly suitable for high-dimensional data like images.
-![Example](figure/Resnet.png)
+![Example](figure/Screenshot_network.png)
 ## UnitTest
 The unit tests within the TestProject class serve as validation mechanisms for critical project components. These tests cover two main aspects:
 
