@@ -1,5 +1,4 @@
-# Human Detection
-JINGYAO CAI(ID:S5604009)
+# Human Detection from Single Image
 ## Abstract
 Human detection stands as a critical and dynamic area of research within the field of computer vision, particularly in object detection. This domain has witnessed substantial advancements in recent years, driven by the emergence of powerful computational techniques and innovative algorithms. The primary objective of this project is to explore and enhance human detection methodologies using deep learning approaches, a subset of machine learning characterized by its capability to learn hierarchical representations.
 
